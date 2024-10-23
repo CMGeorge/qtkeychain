@@ -6,38 +6,38 @@
     <message>
         <location filename="../keychain_win.cpp" line="104"/>
         <source>Password entry not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Parola nu a fost găsită</translation>
     </message>
     <message>
         <location filename="../keychain_win.cpp" line="108"/>
         <source>Could not decrypt data</source>
-        <translation type="unfinished">Nu se poate decripta data</translation>
+        <translation>Nu se pot decripta datele</translation>
     </message>
     <message>
         <location filename="../keychain_unix.cpp" line="552"/>
         <location filename="../keychain_unix.cpp" line="560"/>
         <source>Unknown error</source>
-        <translation type="unfinished">Eroare necunoscută</translation>
+        <translation>Eroare necunoscută</translation>
     </message>
     <message>
         <location filename="../keychain_unix.cpp" line="578"/>
         <source>Could not open wallet: %1; %2</source>
-        <translation type="unfinished">Nu se poate deschide portofelul: %1; %2</translation>
+        <translation>Nu se poate deschide portofelul: %1; %2</translation>
     </message>
     <message>
         <location filename="../keychain_haiku.cpp" line="177"/>
         <source>Password not found</source>
-        <translation type="unfinished">Parola nu a fost găsită</translation>
+        <translation>Parola nu a fost găsită</translation>
     </message>
     <message>
-        <location filename="../keychain_android.cpp" line="173"/>
+        <location filename="../keychain_android.cpp" line="175"/>
         <source>Could not open keystore</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide protofelul de parole</translation>
     </message>
     <message>
-        <location filename="../keychain_android.cpp" line="179"/>
+        <location filename="../keychain_android.cpp" line="181"/>
         <source>Could not remove private key from keystore</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate sterge cheia privata din portofel</translation>
     </message>
 </context>
 <context>
@@ -45,12 +45,12 @@
     <message>
         <location filename="../keychain_unix.cpp" line="265"/>
         <source>Unknown error</source>
-        <translation type="unfinished">Eroare necunoscută</translation>
+        <translation>Eroare necunoscută</translation>
     </message>
     <message>
         <location filename="../keychain_unix.cpp" line="509"/>
         <source>Access to keychain denied</source>
-        <translation type="unfinished">Acces interzis la serviciul de chei</translation>
+        <translation>Acces interzis la serviciul de chei</translation>
     </message>
 </context>
 <context>
@@ -58,27 +58,27 @@
     <message>
         <location filename="../plaintextstore.cpp" line="65"/>
         <source>Could not store data in settings: access error</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se pot stoca datele în setări: eroare de access</translation>
     </message>
     <message>
         <location filename="../plaintextstore.cpp" line="67"/>
         <source>Could not store data in settings: format error</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se pot stoca datele în setări: eroare de format</translation>
     </message>
     <message>
         <location filename="../plaintextstore.cpp" line="85"/>
         <source>Could not delete data from settings: access error</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se potate sterge informația din setări. eroare de access</translation>
     </message>
     <message>
         <location filename="../plaintextstore.cpp" line="87"/>
         <source>Could not delete data from settings: format error</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se potate sterge informația din setări. eroare de format</translation>
     </message>
     <message>
         <location filename="../plaintextstore.cpp" line="104"/>
         <source>Entry not found</source>
-        <translation type="unfinished">Înregistrarea nu a fost găsită</translation>
+        <translation>Înregistrarea nu a fost găsită</translation>
     </message>
 </context>
 <context>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../keychain_win.cpp" line="32"/>
         <source>Password entry not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Parola nu a fost găsită</translation>
     </message>
     <message>
         <location filename="../keychain_win.cpp" line="36"/>
@@ -154,17 +154,17 @@
     <message>
         <location filename="../keychain_android.cpp" line="60"/>
         <source>Could not open keystore</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide protofelul de parole</translation>
     </message>
     <message>
         <location filename="../keychain_android.cpp" line="68"/>
         <source>Could not retrieve private key from keystore</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate extrage cheia privata din portofelul de parole</translation>
     </message>
     <message>
         <location filename="../keychain_android.cpp" line="75"/>
         <source>Could not create decryption cipher</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate crea cheie de decriptare</translation>
     </message>
 </context>
 <context>
@@ -200,17 +200,17 @@
     <message>
         <location filename="../keychain_win.cpp" line="78"/>
         <source>Credential size exceeds maximum size of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiunea credențialelor depășește limita maximă de %1</translation>
     </message>
     <message>
         <location filename="../keychain_win.cpp" line="87"/>
         <source>Credential key exceeds maximum size of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiunea cheii depășește limita maximă de %1</translation>
     </message>
     <message>
         <location filename="../keychain_win.cpp" line="92"/>
         <source>Writing credentials failed: Win32 error code %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrierea credențialelor nu a fost posibiă: Eroare Win32: %1</translation>
     </message>
     <message>
         <location filename="../keychain_win.cpp" line="162"/>
@@ -228,37 +228,37 @@
     <message>
         <location filename="../keychain_haiku.cpp" line="144"/>
         <source>Password not found</source>
-        <translation type="unfinished">Parola nu a fost găsită</translation>
+        <translation>Parola nu a fost găsită</translation>
     </message>
     <message>
         <location filename="../keychain_android.cpp" line="95"/>
         <source>Could not open keystore</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide protofelul de parole</translation>
     </message>
     <message>
-        <location filename="../keychain_android.cpp" line="124"/>
+        <location filename="../keychain_android.cpp" line="126"/>
         <source>Could not create private key generator</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate genera cheia privată</translation>
     </message>
     <message>
-        <location filename="../keychain_android.cpp" line="131"/>
+        <location filename="../keychain_android.cpp" line="133"/>
         <source>Could not generate new private key</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate genera cheie nouă privată</translation>
     </message>
     <message>
-        <location filename="../keychain_android.cpp" line="139"/>
+        <location filename="../keychain_android.cpp" line="141"/>
         <source>Could not retrieve private key from keystore</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate extrage cheia privată din portmoneu</translation>
     </message>
     <message>
-        <location filename="../keychain_android.cpp" line="147"/>
+        <location filename="../keychain_android.cpp" line="149"/>
         <source>Could not create encryption cipher</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate crea cheie de decriptare</translation>
     </message>
     <message>
-        <location filename="../keychain_android.cpp" line="155"/>
+        <location filename="../keychain_android.cpp" line="157"/>
         <source>Could not encrypt data</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se pot encripta datele</translation>
     </message>
 </context>
 <context>
@@ -320,12 +320,12 @@
     <message>
         <location filename="../libsecret.cpp" line="119"/>
         <source>Entry not found</source>
-        <translation type="unfinished">Înregistrarea nu a fost găsită</translation>
+        <translation>Înregistrarea nu a fost găsită</translation>
     </message>
     <message>
         <location filename="../keychain_haiku.cpp" line="72"/>
         <source>error 0x%1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>eroare 0x%1: %2</translation>
     </message>
 </context>
 </TS>
