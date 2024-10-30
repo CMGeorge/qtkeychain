@@ -94,7 +94,7 @@ if (Qt5Core_FOUND AND NOT BUILD_WITH_QT6)
 else()
   find_package(Qt6 COMPONENTS Core REQUIRED)
   if(QTKEYCHAIN_BUILD_WITH_QML)
-      find_package(Qt6 COMPONENTS QML REQUIRED)
+      find_package(Qt6 COMPONENTS Qml REQUIRED)
   endif()
   set(QTKEYCHAIN_VERSION_INFIX 6)
 
